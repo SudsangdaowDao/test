@@ -1,0 +1,17 @@
+<aspectj>
+<aspects>
+<aspect name="com.spt.workshop1.domain.EmployeeDataOnDemand_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.AddressDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.spt.workshop1.domain.EmployeeIntegrationTest_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.EmpTypeDataOnDemand_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.EmpTypeIntegrationTest_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.EmployeeIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.spt.workshop1.domain.EmpTypeIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.spt.workshop1.domain.EmpTypeDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.spt.workshop1.domain.AddressIntegrationTest_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.AddressIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.spt.workshop1.domain.AddressDataOnDemand_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.EmployeeDataOnDemand_Roo_DataOnDemand"/>
+</aspects>
+</aspectj>
+

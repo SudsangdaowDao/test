@@ -1,0 +1,28 @@
+<aspectj>
+<aspects>
+<aspect name="com.spt.workshop1.web.EmpTypeController_Roo_Controller"/>
+<aspect name="com.spt.workshop1.domain.Address_Roo_ToString"/>
+<aspect name="com.spt.workshop1.domain.Employee_Roo_ToString"/>
+<aspect name="com.spt.workshop1.web.AddressController_Custom_Controller"/>
+<aspect name="com.spt.workshop1.domain.Address_Roo_Jpa_Entity"/>
+<aspect name="com.spt.workshop1.domain.Employee_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.Employee_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.spt.workshop1.domain.Address_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.spt.workshop1.domain.EmpType_Roo_Jpa_Entity"/>
+<aspect name="com.spt.workshop1.domain.Address_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.EmpType_Roo_JavaBean"/>
+<aspect name="com.spt.workshop1.web.EmpTypeController_Custom_Controller"/>
+<aspect name="com.spt.workshop1.domain.EmpType_Roo_Configurable"/>
+<aspect name="com.spt.workshop1.domain.Employee_Roo_Jpa_Entity"/>
+<aspect name="com.spt.workshop1.domain.EmpType_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.spt.workshop1.domain.EmpType_Roo_ToString"/>
+<aspect name="com.spt.workshop1.domain.EmpType_Roo_Finder"/>
+<aspect name="com.spt.workshop1.web.AddressController_Roo_Controller"/>
+<aspect name="com.spt.workshop1.domain.Employee_Roo_JavaBean"/>
+<aspect name="com.spt.workshop1.web.EmployeeController_Custom_Controller"/>
+<aspect name="com.spt.workshop1.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.spt.workshop1.domain.Address_Roo_JavaBean"/>
+<aspect name="com.spt.workshop1.web.EmployeeController_Roo_Controller"/>
+</aspects>
+</aspectj>
+
